@@ -1,0 +1,6 @@
+# Additional Learning
+
+- You can use the [AWS DeepLens Recipes](https://www.awsdeeplens.recipes/?utm_source=Udacity&utm_medium=Webpage&utm_campaign=Udacity AWS ML Foundations Course) website to find different learning paths based on your level of expertise. For example, you can choose either a *student* or *teacher* path. Additionally, you can choose between beginner, intermediate, and advanced projects which have been created and vetted by the AWS DeepLens team.
+- You can check out the [AWS machine learning blog](https://aws.amazon.com/blogs/machine-learning/?utm_source=Udacity&utm_medium=Webpage&utm_campaign=Udacity AWS ML Foundations Course) to learn about recent advancements in machine learning. Additionally, you can use the [AWS DeepLens tag](https://aws.amazon.com/blogs/machine-learning/category/artificial-intelligence/aws-deeplens/?utm_source=Udacity&utm_medium=Webpage&utm_campaign=Udacity AWS ML Foundations Course) to see projects which have been created by the AWS DeepLens team.
+- Ready to get started? Check out the [Getting started guide](https://docs.aws.amazon.com/deeplens/latest/dg/deeplens-getting-started.html?utm_source=Udacity&utm_medium=Webpage&utm_campaign=Udacity AWS ML Foundations Course) in the *AWS DeepLens Developer Guide*.
+
